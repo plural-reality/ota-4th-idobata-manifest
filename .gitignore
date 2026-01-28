@@ -1,1 +1,8 @@
-AGENTS.md
+# Ignore everything by default
+*
+
+# Allow only 太田市提案書.md
+!太田市提案書.md
+
+# Don't ignore .gitignore itself
+!.gitignore
